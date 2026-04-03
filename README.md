@@ -93,15 +93,6 @@ Tuy nhiên phát sinh nhiều vấn đề:
 - Giảm tải dung lượng máy cá nhân
 
 ---
-## 🧠 Bài học rút ra
-
-- Công cụ không giải quyết vấn đề — **cách thiết kế hệ thống mới là yếu tố quyết định**
-- Một hệ thống dữ liệu tốt cần:
-    - Khả năng mở rộng
-    - Tính minh bạch
-    - Dễ sử dụng
-- Minh bạch workflow quan trọng không kém dữ liệu
----
 
 ## 🛠️ Công cụ & Kỹ thuật sử dụng
 - SharePoint (Site, Lists, Pages, Document Library)
