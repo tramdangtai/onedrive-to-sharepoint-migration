@@ -124,7 +124,7 @@ Tuy nhiên phát sinh nhiều vấn đề:
 ## 📸 Kết quả
 ### Hình ảnh
 <p align="center">
-  <img src="./images/homepage.PNG" alt="Preview kết quả" width="650">
+  <img src="./images/homepage.png" alt="Preview kết quả" width="650">
 </p>
 
 ---
